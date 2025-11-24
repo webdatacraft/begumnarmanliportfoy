@@ -1,0 +1,3 @@
+[submodule "narmanli_mobilya"]
+	path = narmanli_mobilya
+	url = https://github.com/webdatacraft/narmanli_mobilya.git
